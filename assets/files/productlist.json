@@ -1,0 +1,60 @@
+{
+    "data1": [
+        {
+            "id": 1,
+            "name": "Iphone",
+            "img": "lstiphone.png",
+            "price": 20000000,
+            "desc": "Iphone 123"
+        },
+        {
+            "id": 2,
+            "name": "Samsung",
+            "img": "lstsamsung.png",
+            "price": 20000000,
+            "desc": "Samsung 123"
+        },
+        {
+            "id": 3,
+            "name": "Oppo",
+            "img": "lstoppo.png",
+            "price": 20000000,
+            "desc": "Oppo 123"
+        },
+        {
+            "id": 4,
+            "name": "Xiaomi",
+            "img": "lstxiaomi.png",
+            "price": 20000000,
+            "desc": "Xiaomi 123"
+        },
+        {
+            "id": 5,
+            "name": "Nokia",
+            "img": "lstnokia.png",
+            "price": 20000000,
+            "desc": "Nokia 123"
+        },
+        {
+            "id": 6,
+            "name": "Realme",
+            "img": "lstrealme.png",
+            "price": 20000000,
+            "desc": "Realme 123"
+        },
+        {
+            "id": 7,
+            "name": "Vivo",
+            "img": "lstvivo.png",
+            "price": 20000000,
+            "desc": "Vivo 123"
+        },
+        {
+            "id": 8,
+            "name": "Masstel",
+            "img": "lstmasstel.png",
+            "price": 20000000,
+            "desc": "Masstel 123"
+        }
+    ]
+}
